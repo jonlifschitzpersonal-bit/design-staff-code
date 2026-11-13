@@ -1,0 +1,6 @@
+{
+  "agent": "design-staff-code:staff-design-lead",
+  "enabledPlugins": {
+    "design-staff-code@jony-plugins": true
+  }
+}

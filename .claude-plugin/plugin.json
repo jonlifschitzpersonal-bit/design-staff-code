@@ -1,0 +1,22 @@
+{
+  "name": "design-staff-code",
+  "displayName": "Design Staff Code",
+  "version": "0.2.0",
+  "description": "Variante de design-staff para diseñar directo en código (React + una librería de componentes como HeroUI), sin Figma. Mismo sistema multiagente: un discovery-lead para la fase previa, un staff-design-lead que diseña en código y verifica con un navegador (Playwright), un critic y un scout que auditan en UNA sola ronda, expedientes con validadores, control de accesibilidad con contraste y tamaños medidos en el DOM real, skills senior de producto, UX, UI y UX writing, y un kit de arranque de proyecto (project-setup). Apagado por defecto: habilitalo solo en los proyectos que lo necesitan, y no junto con design-staff.",
+  "author": {
+    "name": "Jonathan Lifschitz"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "design",
+    "product-design",
+    "ux",
+    "ux-research",
+    "discovery",
+    "design-in-code",
+    "react",
+    "accessibility",
+    "critique"
+  ],
+  "defaultEnabled": false
+}
